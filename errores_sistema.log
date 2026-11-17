@@ -1,0 +1,75 @@
+2026-11-17 11:23:51,285 - INFO - Iniciando procesamiento de reserva RES-1001.
+2026-11-17 11:23:51,285 - INFO - Reserva RES-1001 confirmada.
+2026-11-17 11:23:51,285 - INFO - Reserva RES-1001 confirmada. Total: $160,650.00
+2026-11-17 11:23:51,286 - WARNING - Operacion 2 rechazada: Identificacion invalida '1085ABC': debe tener solo numeros.
+2026-11-17 11:23:51,286 - INFO - Iniciando procesamiento de reserva RES-1002.
+2026-11-17 11:23:51,286 - INFO - Reserva RES-1002 confirmada.
+2026-11-17 11:23:51,286 - INFO - Reserva RES-1002 confirmada. Total: $140,000.00
+2026-11-17 11:23:51,287 - INFO - Iniciando procesamiento de reserva RES-1003.
+2026-11-17 11:23:51,287 - INFO - Reserva RES-1003 confirmada.
+2026-11-17 11:23:51,287 - INFO - Reserva RES-1003 confirmada. Total: $270,000.00
+2026-11-17 11:23:51,288 - WARNING - Operacion 5 rechazada: La tarifa base ($-30000.0) debe ser mayor a cero.
+2026-11-17 11:23:51,288 - WARNING - Operacion 6 rechazada: La capacidad de la sala debe ser mayor a cero.
+2026-11-17 11:23:51,288 - INFO - Iniciando procesamiento de reserva RES-1004.
+2026-11-17 11:23:51,288 - ERROR - Error en reserva RES-1004: La reserva de sala debe ser entre 1 y 12 horas.
+2026-11-17 11:23:51,289 - WARNING - Operacion 8 rechazada: Correo invalido: 'pedro-correo-sin-arroba'.
+2026-11-17 11:23:51,289 - INFO - Iniciando procesamiento de reserva RES-1005.
+2026-11-17 11:23:51,289 - INFO - Reserva RES-1005 confirmada.
+2026-11-17 11:23:51,289 - INFO - Reserva RES-1005 confirmada. Total: $140,000.00
+2026-11-17 11:23:51,290 - INFO - Iniciando procesamiento de reserva RES-1006.
+2026-11-17 11:23:51,290 - ERROR - Error en reserva RES-1006: La duracion de la asesoria debe ser mayor a cero.
+2026-11-17 11:23:51,291 - INFO - Iniciando procesamiento de reserva RES-1007.
+2026-11-17 11:23:51,291 - INFO - Reserva RES-1007 confirmada.
+2026-11-17 11:23:51,292 - INFO - Reserva RES-1007 confirmada. Total: $107,100.00
+2026-11-17 11:23:51,293 - INFO - Reserva RES-1007 cancelada.
+2026-11-17 11:23:51,294 - WARNING - Operacion 12 rechazada: Telefono invalido: '312ABC5566'. Debe tener al menos 7 numeros.
+2026-11-17 11:24:08,001 - INFO - Iniciando procesamiento de reserva RES-1001.
+2026-11-17 11:24:08,001 - INFO - Reserva RES-1001 confirmada.
+2026-11-17 11:24:08,001 - INFO - Reserva RES-1001 confirmada. Total: $160,650.00
+2026-11-17 11:24:08,002 - WARNING - Operacion 2 rechazada: Identificacion invalida '1085ABC': debe tener solo numeros.
+2026-11-17 11:24:08,002 - INFO - Iniciando procesamiento de reserva RES-1002.
+2026-11-17 11:24:08,002 - INFO - Reserva RES-1002 confirmada.
+2026-11-17 11:24:08,002 - INFO - Reserva RES-1002 confirmada. Total: $140,000.00
+2026-11-17 11:24:08,002 - INFO - Iniciando procesamiento de reserva RES-1003.
+2026-11-17 11:24:08,002 - INFO - Reserva RES-1003 confirmada.
+2026-11-17 11:24:08,002 - INFO - Reserva RES-1003 confirmada. Total: $270,000.00
+2026-11-17 11:24:08,003 - WARNING - Operacion 5 rechazada: La tarifa base ($-30000.0) debe ser mayor a cero.
+2026-11-17 11:24:08,003 - WARNING - Operacion 6 rechazada: La capacidad de la sala debe ser mayor a cero.
+2026-11-17 11:24:08,003 - INFO - Iniciando procesamiento de reserva RES-1004.
+2026-11-17 11:24:08,003 - ERROR - Error en reserva RES-1004: La reserva de sala debe ser entre 1 y 12 horas.
+2026-11-17 11:24:08,003 - WARNING - Operacion 8 rechazada: Correo invalido: 'pedro-correo-sin-arroba'.
+2026-11-17 11:24:08,003 - INFO - Iniciando procesamiento de reserva RES-1005.
+2026-11-17 11:24:08,003 - INFO - Reserva RES-1005 confirmada.
+2026-11-17 11:24:08,003 - INFO - Reserva RES-1005 confirmada. Total: $140,000.00
+2026-11-17 11:24:08,003 - INFO - Iniciando procesamiento de reserva RES-1006.
+2026-11-17 11:24:08,004 - ERROR - Error en reserva RES-1006: La duracion de la asesoria debe ser mayor a cero.
+2026-11-17 11:24:08,004 - INFO - Iniciando procesamiento de reserva RES-1007.
+2026-11-17 11:24:08,004 - INFO - Reserva RES-1007 confirmada.
+2026-11-17 11:24:08,004 - INFO - Reserva RES-1007 confirmada. Total: $107,100.00
+2026-11-17 11:24:08,004 - INFO - Reserva RES-1007 cancelada.
+2026-11-17 11:24:08,004 - WARNING - Operacion 12 rechazada: Telefono invalido: '312ABC5566'. Debe tener al menos 7 numeros.
+2026-11-17 13:19:37,999 - INFO - Iniciando procesamiento de reserva RES-1001.
+2026-11-17 13:19:38,000 - INFO - Reserva RES-1001 confirmada.
+2026-11-17 13:19:38,000 - INFO - Reserva RES-1001 confirmada. Total: $160,650.00
+2026-11-17 13:19:38,000 - WARNING - Operacion 2 rechazada: Identificacion invalida '1085ABC': debe tener solo numeros.
+2026-11-17 13:19:38,000 - INFO - Iniciando procesamiento de reserva RES-1002.
+2026-11-17 13:19:38,001 - INFO - Reserva RES-1002 confirmada.
+2026-11-17 13:19:38,001 - INFO - Reserva RES-1002 confirmada. Total: $140,000.00
+2026-11-17 13:19:38,001 - INFO - Iniciando procesamiento de reserva RES-1003.
+2026-11-17 13:19:38,001 - INFO - Reserva RES-1003 confirmada.
+2026-11-17 13:19:38,001 - INFO - Reserva RES-1003 confirmada. Total: $270,000.00
+2026-11-17 13:19:38,001 - WARNING - Operacion 5 rechazada: La tarifa base ($-30000.0) debe ser mayor a cero.
+2026-11-17 13:19:38,002 - WARNING - Operacion 6 rechazada: La capacidad de la sala debe ser mayor a cero.
+2026-11-17 13:19:38,002 - INFO - Iniciando procesamiento de reserva RES-1004.
+2026-11-17 13:19:38,002 - ERROR - Error en reserva RES-1004: La reserva de sala debe ser entre 1 y 12 horas.
+2026-11-17 13:19:38,002 - WARNING - Operacion 8 rechazada: Correo invalido: 'pedro-correo-sin-arroba'.
+2026-11-17 13:19:38,003 - INFO - Iniciando procesamiento de reserva RES-1005.
+2026-11-17 13:19:38,003 - INFO - Reserva RES-1005 confirmada.
+2026-11-17 13:19:38,003 - INFO - Reserva RES-1005 confirmada. Total: $140,000.00
+2026-11-17 13:19:38,003 - INFO - Iniciando procesamiento de reserva RES-1006.
+2026-11-17 13:19:38,003 - ERROR - Error en reserva RES-1006: La duracion de la asesoria debe ser mayor a cero.
+2026-11-17 13:19:38,004 - INFO - Iniciando procesamiento de reserva RES-1007.
+2026-11-17 13:19:38,004 - INFO - Reserva RES-1007 confirmada.
+2026-11-17 13:19:38,004 - INFO - Reserva RES-1007 confirmada. Total: $107,100.00
+2026-11-17 13:19:38,004 - INFO - Reserva RES-1007 cancelada.
+2026-11-17 13:19:38,004 - WARNING - Operacion 12 rechazada: Telefono invalido: '312ABC5566'. Debe tener al menos 7 numeros.
